@@ -24,7 +24,7 @@ log = logging.getLogger(__name__)
 STOP = set("""avisa avisa-me aviso algo sobre quando apareca aparecer onde para como quais quero entre desde todas todos
 que uma uns umas dos das nos nas pelo pela pelos pelas este esta isto esse essa aquilo mais muito pouco ainda também
 tambem tenha tenham seja sejam fazer feito ser estar estao está são sao com sem por num numa despachos despacho notícias
-noticias noticia procura procurar pesquisa pesquisar mostra mostrar encontra encontrar há tem""".split())
+noticias noticia local locais caso casos nova novo novos novas procura procurar pesquisa pesquisar mostra mostrar encontra encontrar há tem""".split())
 
 RANK_SYSTEM = """És o agente de pesquisa de uma redação. Recebes uma instrução do jornalista e documentos candidatos.
 Para cada candidato que corresponda MESMO à instrução, devolve id, match=true, reason (porque corresponde, 1 frase) e

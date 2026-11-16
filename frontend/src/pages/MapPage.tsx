@@ -14,6 +14,9 @@ const STYLE: maplibregl.StyleSpecification = {
 };
 const FONT = ["Open Sans Regular", "Arial Unicode MS Regular"];
 const MAX_CLUSTER_ZOOM = 12;
+const VIEWS: Record<string, { c: [number, number]; z: number }> = {
+  Continente: { c: [-8.0, 39.6], z: 5.4 }, Açores: { c: [-27.2, 38.6], z: 5.6 }, Madeira: { c: [-16.95, 32.75], z: 8.4 },
+};
 
 // Alertas no mesmo centroide ficam espalhados num pequeno círculo para serem clicáveis.
 function toGeoJSON(items: Alert[]) {
@@ -94,6 +97,9 @@ export default function MapPage({ meta }: { meta: Meta }) {
     <div className="mappage">
       <div className="mapbar">
         <Filters meta={meta} f={f} set={setF} mode="range" />
+        <div className="seg" role="group" aria-label="Zona">
+          {Object.entries(VIEWS).map(([k, v]) => <button key={k} onClick={() => map.current?.flyTo({ center: v.c, zoom: v.z })}>{k}</button>)}
+        </div>
         <span className="muted">{items.length} no mapa</span>
         {err && <span className="error">{err}</span>}
       </div>
