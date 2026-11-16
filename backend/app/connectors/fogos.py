@@ -6,6 +6,7 @@ import datetime as dt
 from typing import List, Optional
 
 from ..config import settings
+from ..models import utcnow
 from .base import RawDocument, SourceConnector
 from .http import PoliteClient
 
@@ -27,7 +28,7 @@ class FogosConnector(SourceConnector):
             if men < settings.fogos_min_men and not i.get("important"):
                 continue
             ts = (i.get("dateTime") or {}).get("sec")
-            when = dt.datetime.utcfromtimestamp(ts) if ts else dt.datetime.utcnow()
+            when = dt.datetime.fromtimestamp(ts, dt.timezone.utc).replace(tzinfo=None) if ts else utcnow()
             nat = i.get("natureza") or "Ocorrência"
             title = f"{nat} — {i.get('concelho') or i.get('location')} ({i.get('district') or ''})".strip()
             text = (f"{nat} em {i.get('location')}. Estado: {i.get('status')}. Meios: {men} operacionais, "
