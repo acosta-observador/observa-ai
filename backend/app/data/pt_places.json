@@ -1,0 +1,1956 @@
+{
+"concelhos": [
+{
+"name": "Abrantes",
+"parent": "Santarém",
+"lat": 39.4644,
+"lon": -8.1978
+},
+{
+"name": "Aguiar da Beira",
+"parent": "Guarda",
+"lat": 40.818,
+"lon": -7.5414
+},
+{
+"name": "Alandroal",
+"parent": "Évora",
+"lat": 38.7,
+"lon": -7.4
+},
+{
+"name": "Albergaria-a-Velha",
+"parent": "Aveiro",
+"lat": 40.6936,
+"lon": -8.4806
+},
+{
+"name": "Albufeira",
+"parent": "Faro",
+"lat": 37.0897,
+"lon": -8.2458
+},
+{
+"name": "Alcanena",
+"parent": "Santarém",
+"lat": 39.4667,
+"lon": -8.6667
+},
+{
+"name": "Alcobaça",
+"parent": "Leiria",
+"lat": 39.55,
+"lon": -8.975
+},
+{
+"name": "Alcochete",
+"parent": "Setúbal",
+"lat": 38.7553,
+"lon": -8.9608
+},
+{
+"name": "Alcoutim",
+"parent": "Faro",
+"lat": 37.47,
+"lon": -7.4731
+},
+{
+"name": "Alcácer do Sal",
+"parent": "Setúbal",
+"lat": 38.3725,
+"lon": -8.5133
+},
+{
+"name": "Alenquer",
+"parent": "Lisboa",
+"lat": 39.05,
+"lon": -9.0167
+},
+{
+"name": "Alfândega da Fé",
+"parent": "Bragança",
+"lat": 41.35,
+"lon": -6.9667
+},
+{
+"name": "Alijó",
+"parent": "Vila Real",
+"lat": 41.2764,
+"lon": -7.4749
+},
+{
+"name": "Aljezur",
+"parent": "Faro",
+"lat": 37.3178,
+"lon": -8.8
+},
+{
+"name": "Aljustrel",
+"parent": "Beja",
+"lat": 37.8785,
+"lon": -8.1614
+},
+{
+"name": "Almada",
+"parent": "Setúbal",
+"lat": 38.6803,
+"lon": -9.1583
+},
+{
+"name": "Almeida",
+"parent": "Guarda",
+"lat": 40.7259,
+"lon": -6.9056
+},
+{
+"name": "Almeirim",
+"parent": "Santarém",
+"lat": 39.2167,
+"lon": -8.6333
+},
+{
+"name": "Almodôvar",
+"parent": "Beja",
+"lat": 37.5114,
+"lon": -8.0603
+},
+{
+"name": "Alpiarça",
+"parent": "Santarém",
+"lat": 39.2593,
+"lon": -8.585
+},
+{
+"name": "Alter do Chão",
+"parent": "Portalegre",
+"lat": 39.2,
+"lon": -7.6667
+},
+{
+"name": "Alvaiázere",
+"parent": "Leiria",
+"lat": 39.8333,
+"lon": -8.3833
+},
+{
+"name": "Alvito",
+"parent": "Beja",
+"lat": 38.25,
+"lon": -7.9833
+},
+{
+"name": "Amadora",
+"parent": "Lisboa",
+"lat": 38.75,
+"lon": -9.2333
+},
+{
+"name": "Amarante",
+"parent": "Porto",
+"lat": 41.269,
+"lon": -8.0784
+},
+{
+"name": "Amares",
+"parent": "Braga",
+"lat": 41.6333,
+"lon": -8.35
+},
+{
+"name": "Anadia",
+"parent": "Aveiro",
+"lat": 40.4333,
+"lon": -8.4333
+},
+{
+"name": "Angra do Heroísmo",
+"parent": "Açores",
+"lat": 38.6558,
+"lon": -27.2153
+},
+{
+"name": "Ansião",
+"parent": "Leiria",
+"lat": 39.9167,
+"lon": -8.4333
+},
+{
+"name": "Arcos de Valdevez",
+"parent": "Viana do Castelo",
+"lat": 41.85,
+"lon": -8.4167
+},
+{
+"name": "Arganil",
+"parent": "Coimbra",
+"lat": 40.2167,
+"lon": -8.05
+},
+{
+"name": "Armamar",
+"parent": "Viseu",
+"lat": 41.1167,
+"lon": -7.6833
+},
+{
+"name": "Arouca",
+"parent": "Aveiro",
+"lat": 40.9333,
+"lon": -8.25
+},
+{
+"name": "Arraiolos",
+"parent": "Évora",
+"lat": 38.7229,
+"lon": -7.9843
+},
+{
+"name": "Arronches",
+"parent": "Portalegre",
+"lat": 39.1167,
+"lon": -7.2833
+},
+{
+"name": "Arruda dos Vinhos",
+"parent": "Lisboa",
+"lat": 38.9833,
+"lon": -9.0667
+},
+{
+"name": "Aveiro",
+"parent": "Aveiro",
+"lat": 40.6389,
+"lon": -8.6553
+},
+{
+"name": "Avis",
+"parent": "Portalegre",
+"lat": 39.05,
+"lon": -7.8833
+},
+{
+"name": "Azambuja",
+"parent": "Lisboa",
+"lat": 39.0667,
+"lon": -8.8667
+},
+{
+"name": "Baião",
+"parent": "Porto",
+"lat": 41.1667,
+"lon": -8.0333
+},
+{
+"name": "Barcelos",
+"parent": "Braga",
+"lat": 41.5333,
+"lon": -8.6167
+},
+{
+"name": "Barrancos",
+"parent": "Beja",
+"lat": 38.1307,
+"lon": -6.9761
+},
+{
+"name": "Barreiro",
+"parent": "Setúbal",
+"lat": 38.6609,
+"lon": -9.0733
+},
+{
+"name": "Batalha",
+"parent": "Leiria",
+"lat": 39.65,
+"lon": -8.8167
+},
+{
+"name": "Beja",
+"parent": "Beja",
+"lat": 38.0156,
+"lon": -7.8653
+},
+{
+"name": "Belmonte",
+"parent": "Castelo Branco",
+"lat": 40.3667,
+"lon": -7.35
+},
+{
+"name": "Benavente",
+"parent": "Santarém",
+"lat": 38.9833,
+"lon": -8.8167
+},
+{
+"name": "Bombarral",
+"parent": "Leiria",
+"lat": 39.2667,
+"lon": -9.15
+},
+{
+"name": "Borba",
+"parent": "Évora",
+"lat": 38.8,
+"lon": -7.45
+},
+{
+"name": "Boticas",
+"parent": "Vila Real",
+"lat": 41.6833,
+"lon": -7.6667
+},
+{
+"name": "Braga",
+"parent": "Braga",
+"lat": 41.5333,
+"lon": -8.4167
+},
+{
+"name": "Bragança",
+"parent": "Bragança",
+"lat": 41.8,
+"lon": -6.75
+},
+{
+"name": "Cabeceiras de Basto",
+"parent": "Braga",
+"lat": 41.5167,
+"lon": -8.0
+},
+{
+"name": "Cadaval",
+"parent": "Lisboa",
+"lat": 39.2462,
+"lon": -9.0674
+},
+{
+"name": "Caldas da Rainha",
+"parent": "Leiria",
+"lat": 39.4069,
+"lon": -9.1363
+},
+{
+"name": "Calheta",
+"parent": "Açores",
+"lat": 38.6,
+"lon": -28.0167
+},
+{
+"name": "Calheta",
+"parent": "Madeira",
+"lat": 32.7333,
+"lon": -17.1667
+},
+{
+"name": "Caminha",
+"parent": "Viana do Castelo",
+"lat": 41.8333,
+"lon": -8.8333
+},
+{
+"name": "Campo Maior",
+"parent": "Portalegre",
+"lat": 39.015,
+"lon": -7.0683
+},
+{
+"name": "Cantanhede",
+"parent": "Coimbra",
+"lat": 40.3462,
+"lon": -8.5941
+},
+{
+"name": "Carrazeda de Ansiães",
+"parent": "Bragança",
+"lat": 41.25,
+"lon": -7.3
+},
+{
+"name": "Carregal do Sal",
+"parent": "Viseu",
+"lat": 40.4333,
+"lon": -8.0
+},
+{
+"name": "Cartaxo",
+"parent": "Santarém",
+"lat": 39.15,
+"lon": -8.7833
+},
+{
+"name": "Cascais",
+"parent": "Lisboa",
+"lat": 38.6969,
+"lon": -9.4206
+},
+{
+"name": "Castanheira de Pera",
+"parent": "Leiria",
+"lat": 40.0,
+"lon": -8.2167
+},
+{
+"name": "Castelo Branco",
+"parent": "Castelo Branco",
+"lat": 39.8228,
+"lon": -7.4931
+},
+{
+"name": "Castelo de Paiva",
+"parent": "Aveiro",
+"lat": 41.0333,
+"lon": -8.2667
+},
+{
+"name": "Castelo de Vide",
+"parent": "Portalegre",
+"lat": 39.4167,
+"lon": -7.45
+},
+{
+"name": "Castro Daire",
+"parent": "Viseu",
+"lat": 40.9,
+"lon": -7.9333
+},
+{
+"name": "Castro Marim",
+"parent": "Faro",
+"lat": 37.2167,
+"lon": -7.45
+},
+{
+"name": "Castro Verde",
+"parent": "Beja",
+"lat": 37.6976,
+"lon": -8.0819
+},
+{
+"name": "Celorico da Beira",
+"parent": "Guarda",
+"lat": 40.6333,
+"lon": -7.4
+},
+{
+"name": "Celorico de Basto",
+"parent": "Braga",
+"lat": 41.3869,
+"lon": -8.0022
+},
+{
+"name": "Chamusca",
+"parent": "Santarém",
+"lat": 39.35,
+"lon": -8.4833
+},
+{
+"name": "Chaves",
+"parent": "Vila Real",
+"lat": 41.7399,
+"lon": -7.4707
+},
+{
+"name": "Cinfães",
+"parent": "Viseu",
+"lat": 41.0667,
+"lon": -8.0833
+},
+{
+"name": "Coimbra",
+"parent": "Coimbra",
+"lat": 40.2111,
+"lon": -8.4289
+},
+{
+"name": "Condeixa-a-Nova",
+"parent": "Coimbra",
+"lat": 40.1167,
+"lon": -8.5
+},
+{
+"name": "Constância",
+"parent": "Santarém",
+"lat": 39.4833,
+"lon": -8.3333
+},
+{
+"name": "Coruche",
+"parent": "Santarém",
+"lat": 38.95,
+"lon": -8.5333
+},
+{
+"name": "Covilhã",
+"parent": "Castelo Branco",
+"lat": 40.2833,
+"lon": -7.5
+},
+{
+"name": "Crato",
+"parent": "Portalegre",
+"lat": 39.2833,
+"lon": -7.65
+},
+{
+"name": "Cuba",
+"parent": "Beja",
+"lat": 38.15,
+"lon": -7.8833
+},
+{
+"name": "Câmara de Lobos",
+"parent": "Madeira",
+"lat": 32.65,
+"lon": -16.9667
+},
+{
+"name": "Elvas",
+"parent": "Portalegre",
+"lat": 38.88,
+"lon": -7.1628
+},
+{
+"name": "Entroncamento",
+"parent": "Santarém",
+"lat": 39.4667,
+"lon": -8.4667
+},
+{
+"name": "Espinho",
+"parent": "Aveiro",
+"lat": 41.01,
+"lon": -8.64
+},
+{
+"name": "Esposende",
+"parent": "Braga",
+"lat": 41.5333,
+"lon": -8.7833
+},
+{
+"name": "Estarreja",
+"parent": "Aveiro",
+"lat": 40.75,
+"lon": -8.5667
+},
+{
+"name": "Estremoz",
+"parent": "Évora",
+"lat": 38.8422,
+"lon": -7.5881
+},
+{
+"name": "Fafe",
+"parent": "Braga",
+"lat": 41.45,
+"lon": -8.1667
+},
+{
+"name": "Faro",
+"parent": "Faro",
+"lat": 37.0161,
+"lon": -7.935
+},
+{
+"name": "Felgueiras",
+"parent": "Porto",
+"lat": 41.3667,
+"lon": -8.2
+},
+{
+"name": "Ferreira do Alentejo",
+"parent": "Beja",
+"lat": 38.0589,
+"lon": -8.1156
+},
+{
+"name": "Ferreira do Zêzere",
+"parent": "Santarém",
+"lat": 39.7,
+"lon": -8.2833
+},
+{
+"name": "Figueira da Foz",
+"parent": "Coimbra",
+"lat": 40.1508,
+"lon": -8.8618
+},
+{
+"name": "Figueira de Castelo Rodrigo",
+"parent": "Guarda",
+"lat": 40.9,
+"lon": -6.9667
+},
+{
+"name": "Figueiró dos Vinhos",
+"parent": "Leiria",
+"lat": 39.9,
+"lon": -8.2667
+},
+{
+"name": "Fornos de Algodres",
+"parent": "Guarda",
+"lat": 40.6167,
+"lon": -7.5333
+},
+{
+"name": "Freixo de Espada à Cinta",
+"parent": "Bragança",
+"lat": 41.0833,
+"lon": -6.8
+},
+{
+"name": "Fronteira",
+"parent": "Portalegre",
+"lat": 39.05,
+"lon": -7.65
+},
+{
+"name": "Funchal",
+"parent": "Madeira",
+"lat": 32.65,
+"lon": -16.9167
+},
+{
+"name": "Fundão",
+"parent": "Castelo Branco",
+"lat": 40.1333,
+"lon": -7.5
+},
+{
+"name": "Gavião",
+"parent": "Portalegre",
+"lat": 39.4667,
+"lon": -7.9333
+},
+{
+"name": "Golegã",
+"parent": "Santarém",
+"lat": 39.4,
+"lon": -8.4833
+},
+{
+"name": "Gondomar",
+"parent": "Porto",
+"lat": 41.15,
+"lon": -8.5333
+},
+{
+"name": "Gouveia",
+"parent": "Guarda",
+"lat": 40.5,
+"lon": -7.6
+},
+{
+"name": "Grândola",
+"parent": "Setúbal",
+"lat": 38.1768,
+"lon": -8.5689
+},
+{
+"name": "Guarda",
+"parent": "Guarda",
+"lat": 40.5364,
+"lon": -7.2683
+},
+{
+"name": "Guimarães",
+"parent": "Braga",
+"lat": 41.445,
+"lon": -8.2908
+},
+{
+"name": "Góis",
+"parent": "Coimbra",
+"lat": 40.15,
+"lon": -8.1167
+},
+{
+"name": "Horta",
+"parent": "Açores",
+"lat": 38.5333,
+"lon": -28.6333
+},
+{
+"name": "Idanha-a-Nova",
+"parent": "Castelo Branco",
+"lat": 39.9167,
+"lon": -7.2333
+},
+{
+"name": "Lagoa",
+"parent": "Faro",
+"lat": 37.1333,
+"lon": -8.45
+},
+{
+"name": "Lagoa",
+"parent": "Açores",
+"lat": 37.75,
+"lon": -25.5833
+},
+{
+"name": "Lagos",
+"parent": "Faro",
+"lat": 37.1028,
+"lon": -8.6728
+},
+{
+"name": "Lajes das Flores",
+"parent": "Açores",
+"lat": 39.3833,
+"lon": -31.1667
+},
+{
+"name": "Lajes do Pico",
+"parent": "Açores",
+"lat": 38.4,
+"lon": -28.25
+},
+{
+"name": "Lamego",
+"parent": "Viseu",
+"lat": 41.0983,
+"lon": -7.81
+},
+{
+"name": "Leiria",
+"parent": "Leiria",
+"lat": 39.7431,
+"lon": -8.8069
+},
+{
+"name": "Lisboa",
+"parent": "Lisboa",
+"lat": 38.7263,
+"lon": -9.1484
+},
+{
+"name": "Loulé",
+"parent": "Faro",
+"lat": 37.144,
+"lon": -8.0235
+},
+{
+"name": "Loures",
+"parent": "Lisboa",
+"lat": 38.8333,
+"lon": -9.1667
+},
+{
+"name": "Lourinhã",
+"parent": "Lisboa",
+"lat": 39.25,
+"lon": -9.3167
+},
+{
+"name": "Lousada",
+"parent": "Porto",
+"lat": 41.2833,
+"lon": -8.2833
+},
+{
+"name": "Lousã",
+"parent": "Coimbra",
+"lat": 40.1125,
+"lon": -8.2469
+},
+{
+"name": "Macedo de Cavaleiros",
+"parent": "Bragança",
+"lat": 41.5333,
+"lon": -6.95
+},
+{
+"name": "Machico",
+"parent": "Madeira",
+"lat": 32.7167,
+"lon": -16.7667
+},
+{
+"name": "Madalena",
+"parent": "Açores",
+"lat": 38.5356,
+"lon": -28.5234
+},
+{
+"name": "Mafra",
+"parent": "Lisboa",
+"lat": 38.9333,
+"lon": -9.3333
+},
+{
+"name": "Maia",
+"parent": "Porto",
+"lat": 41.2333,
+"lon": -8.6167
+},
+{
+"name": "Mangualde",
+"parent": "Viseu",
+"lat": 40.6,
+"lon": -7.7667
+},
+{
+"name": "Manteigas",
+"parent": "Guarda",
+"lat": 40.4,
+"lon": -7.5333
+},
+{
+"name": "Marco de Canaveses",
+"parent": "Porto",
+"lat": 41.1833,
+"lon": -8.15
+},
+{
+"name": "Marinha Grande",
+"parent": "Leiria",
+"lat": 39.75,
+"lon": -8.9333
+},
+{
+"name": "Marvão",
+"parent": "Portalegre",
+"lat": 39.3942,
+"lon": -7.3772
+},
+{
+"name": "Matosinhos",
+"parent": "Porto",
+"lat": 41.1867,
+"lon": -8.6844
+},
+{
+"name": "Mação",
+"parent": "Santarém",
+"lat": 39.55,
+"lon": -8.0
+},
+{
+"name": "Mealhada",
+"parent": "Aveiro",
+"lat": 40.3833,
+"lon": -8.45
+},
+{
+"name": "Melgaço",
+"parent": "Viana do Castelo",
+"lat": 42.1167,
+"lon": -8.2667
+},
+{
+"name": "Mesão Frio",
+"parent": "Vila Real",
+"lat": 41.1667,
+"lon": -7.8833
+},
+{
+"name": "Mira",
+"parent": "Coimbra",
+"lat": 40.4285,
+"lon": -8.7363
+},
+{
+"name": "Miranda do Corvo",
+"parent": "Coimbra",
+"lat": 40.1,
+"lon": -8.3333
+},
+{
+"name": "Miranda do Douro",
+"parent": "Bragança",
+"lat": 41.5,
+"lon": -6.2667
+},
+{
+"name": "Mirandela",
+"parent": "Bragança",
+"lat": 41.4833,
+"lon": -7.1833
+},
+{
+"name": "Mogadouro",
+"parent": "Bragança",
+"lat": 41.3419,
+"lon": -6.7193
+},
+{
+"name": "Moimenta da Beira",
+"parent": "Viseu",
+"lat": 40.9819,
+"lon": -7.6158
+},
+{
+"name": "Moita",
+"parent": "Setúbal",
+"lat": 38.65,
+"lon": -8.9833
+},
+{
+"name": "Monchique",
+"parent": "Faro",
+"lat": 37.3167,
+"lon": -8.6
+},
+{
+"name": "Mondim de Basto",
+"parent": "Vila Real",
+"lat": 41.4,
+"lon": -7.95
+},
+{
+"name": "Monforte",
+"parent": "Portalegre",
+"lat": 39.05,
+"lon": -7.4333
+},
+{
+"name": "Montalegre",
+"parent": "Vila Real",
+"lat": 41.8167,
+"lon": -7.7833
+},
+{
+"name": "Montemor-o-Novo",
+"parent": "Évora",
+"lat": 38.65,
+"lon": -8.2167
+},
+{
+"name": "Montemor-o-Velho",
+"parent": "Coimbra",
+"lat": 40.1667,
+"lon": -8.6833
+},
+{
+"name": "Montijo",
+"parent": "Setúbal",
+"lat": 38.7049,
+"lon": -8.9757
+},
+{
+"name": "Monção",
+"parent": "Viana do Castelo",
+"lat": 42.0733,
+"lon": -8.48
+},
+{
+"name": "Mora",
+"parent": "Évora",
+"lat": 38.9333,
+"lon": -8.15
+},
+{
+"name": "Mortágua",
+"parent": "Viseu",
+"lat": 40.3833,
+"lon": -8.2167
+},
+{
+"name": "Moura",
+"parent": "Beja",
+"lat": 38.1397,
+"lon": -7.4505
+},
+{
+"name": "Mourão",
+"parent": "Évora",
+"lat": 38.3333,
+"lon": -7.3667
+},
+{
+"name": "Município do Corvo",
+"parent": "Açores",
+"lat": 39.6731,
+"lon": -31.1125
+},
+{
+"name": "Murtosa",
+"parent": "Aveiro",
+"lat": 40.7369,
+"lon": -8.6386
+},
+{
+"name": "Murça",
+"parent": "Vila Real",
+"lat": 41.4,
+"lon": -7.45
+},
+{
+"name": "Mértola",
+"parent": "Beja",
+"lat": 37.6333,
+"lon": -7.65
+},
+{
+"name": "Mêda",
+"parent": "Guarda",
+"lat": 40.9667,
+"lon": -7.2667
+},
+{
+"name": "Nazaré",
+"parent": "Leiria",
+"lat": 39.6,
+"lon": -9.0667
+},
+{
+"name": "Nelas",
+"parent": "Viseu",
+"lat": 40.5167,
+"lon": -7.85
+},
+{
+"name": "Nisa",
+"parent": "Portalegre",
+"lat": 39.5167,
+"lon": -7.65
+},
+{
+"name": "Nordeste",
+"parent": "Açores",
+"lat": 37.8333,
+"lon": -25.15
+},
+{
+"name": "Odemira",
+"parent": "Beja",
+"lat": 37.5833,
+"lon": -8.6333
+},
+{
+"name": "Odivelas",
+"parent": "Lisboa",
+"lat": 38.8,
+"lon": -9.1833
+},
+{
+"name": "Oeiras",
+"parent": "Lisboa",
+"lat": 38.697,
+"lon": -9.3017
+},
+{
+"name": "Oleiros",
+"parent": "Castelo Branco",
+"lat": 39.9167,
+"lon": -7.9167
+},
+{
+"name": "Olhão",
+"parent": "Faro",
+"lat": 37.0278,
+"lon": -7.8389
+},
+{
+"name": "Oliveira de Azeméis",
+"parent": "Aveiro",
+"lat": 40.8333,
+"lon": -8.4833
+},
+{
+"name": "Oliveira de Frades",
+"parent": "Viseu",
+"lat": 40.7333,
+"lon": -8.1667
+},
+{
+"name": "Oliveira do Bairro",
+"parent": "Aveiro",
+"lat": 40.5167,
+"lon": -8.5
+},
+{
+"name": "Oliveira do Hospital",
+"parent": "Coimbra",
+"lat": 40.3667,
+"lon": -7.8667
+},
+{
+"name": "Ourique",
+"parent": "Beja",
+"lat": 37.65,
+"lon": -8.225
+},
+{
+"name": "Ourém",
+"parent": "Santarém",
+"lat": 39.65,
+"lon": -8.5833
+},
+{
+"name": "Ovar",
+"parent": "Aveiro",
+"lat": 40.8667,
+"lon": -8.6333
+},
+{
+"name": "Palmela",
+"parent": "Setúbal",
+"lat": 38.5675,
+"lon": -8.8991
+},
+{
+"name": "Pampilhosa da Serra",
+"parent": "Coimbra",
+"lat": 40.05,
+"lon": -7.95
+},
+{
+"name": "Paredes",
+"parent": "Porto",
+"lat": 41.2,
+"lon": -8.3333
+},
+{
+"name": "Paredes de Coura",
+"parent": "Viana do Castelo",
+"lat": 41.9127,
+"lon": -8.5622
+},
+{
+"name": "Paços de Ferreira",
+"parent": "Porto",
+"lat": 41.2833,
+"lon": -8.3833
+},
+{
+"name": "Pedrógão Grande",
+"parent": "Leiria",
+"lat": 39.9167,
+"lon": -8.15
+},
+{
+"name": "Penacova",
+"parent": "Coimbra",
+"lat": 40.2706,
+"lon": -8.2833
+},
+{
+"name": "Penafiel",
+"parent": "Porto",
+"lat": 41.2,
+"lon": -8.2833
+},
+{
+"name": "Penalva do Castelo",
+"parent": "Viseu",
+"lat": 40.6667,
+"lon": -7.6833
+},
+{
+"name": "Penamacor",
+"parent": "Castelo Branco",
+"lat": 40.1667,
+"lon": -7.1667
+},
+{
+"name": "Penedono",
+"parent": "Viseu",
+"lat": 40.9833,
+"lon": -7.3833
+},
+{
+"name": "Penela",
+"parent": "Coimbra",
+"lat": 40.0333,
+"lon": -8.3833
+},
+{
+"name": "Peniche",
+"parent": "Leiria",
+"lat": 39.3628,
+"lon": -9.3887
+},
+{
+"name": "Peso da Régua",
+"parent": "Vila Real",
+"lat": 41.1632,
+"lon": -7.789
+},
+{
+"name": "Pinhel",
+"parent": "Guarda",
+"lat": 40.7833,
+"lon": -7.0667
+},
+{
+"name": "Pombal",
+"parent": "Leiria",
+"lat": 39.9161,
+"lon": -8.6281
+},
+{
+"name": "Ponta Delgada",
+"parent": "Açores",
+"lat": 37.74,
+"lon": -25.67
+},
+{
+"name": "Ponta do Sol",
+"parent": "Madeira",
+"lat": 32.6811,
+"lon": -17.1042
+},
+{
+"name": "Ponte da Barca",
+"parent": "Viana do Castelo",
+"lat": 41.8,
+"lon": -8.4167
+},
+{
+"name": "Ponte de Lima",
+"parent": "Viana do Castelo",
+"lat": 41.7667,
+"lon": -8.5833
+},
+{
+"name": "Ponte de Sor",
+"parent": "Portalegre",
+"lat": 39.25,
+"lon": -8.0167
+},
+{
+"name": "Portalegre",
+"parent": "Portalegre",
+"lat": 39.3167,
+"lon": -7.4167
+},
+{
+"name": "Portel",
+"parent": "Évora",
+"lat": 38.3,
+"lon": -7.7
+},
+{
+"name": "Portimão",
+"parent": "Faro",
+"lat": 37.1333,
+"lon": -8.5333
+},
+{
+"name": "Porto",
+"parent": "Porto",
+"lat": 41.15,
+"lon": -8.6108
+},
+{
+"name": "Porto Moniz",
+"parent": "Madeira",
+"lat": 32.8667,
+"lon": -17.1667
+},
+{
+"name": "Porto Santo",
+"parent": "Madeira",
+"lat": 33.0619,
+"lon": -16.3564
+},
+{
+"name": "Porto de Mós",
+"parent": "Leiria",
+"lat": 39.6017,
+"lon": -8.8175
+},
+{
+"name": "Povoação",
+"parent": "Açores",
+"lat": 37.746,
+"lon": -25.245
+},
+{
+"name": "Praia da Vitória",
+"parent": "Açores",
+"lat": 38.7333,
+"lon": -27.0667
+},
+{
+"name": "Proença-a-Nova",
+"parent": "Castelo Branco",
+"lat": 39.75,
+"lon": -7.9167
+},
+{
+"name": "Póvoa de Lanhoso",
+"parent": "Braga",
+"lat": 41.5667,
+"lon": -8.2667
+},
+{
+"name": "Póvoa de Varzim",
+"parent": "Porto",
+"lat": 41.3916,
+"lon": -8.7571
+},
+{
+"name": "Redondo",
+"parent": "Évora",
+"lat": 38.6464,
+"lon": -7.5464
+},
+{
+"name": "Reguengos de Monsaraz",
+"parent": "Évora",
+"lat": 38.4167,
+"lon": -7.5333
+},
+{
+"name": "Resende",
+"parent": "Viseu",
+"lat": 41.1,
+"lon": -7.95
+},
+{
+"name": "Ribeira Brava",
+"parent": "Madeira",
+"lat": 32.6722,
+"lon": -17.0639
+},
+{
+"name": "Ribeira Grande",
+"parent": "Açores",
+"lat": 37.8167,
+"lon": -25.5167
+},
+{
+"name": "Ribeira de Pena",
+"parent": "Vila Real",
+"lat": 41.5167,
+"lon": -7.8
+},
+{
+"name": "Rio Maior",
+"parent": "Santarém",
+"lat": 39.3333,
+"lon": -8.9333
+},
+{
+"name": "Sabrosa",
+"parent": "Vila Real",
+"lat": 41.2651,
+"lon": -7.5751
+},
+{
+"name": "Sabugal",
+"parent": "Guarda",
+"lat": 40.35,
+"lon": -7.0833
+},
+{
+"name": "Salvaterra de Magos",
+"parent": "Santarém",
+"lat": 39.0167,
+"lon": -8.7833
+},
+{
+"name": "Santa Comba Dão",
+"parent": "Viseu",
+"lat": 40.4,
+"lon": -8.1333
+},
+{
+"name": "Santa Cruz",
+"parent": "Madeira",
+"lat": 32.675,
+"lon": -16.8309
+},
+{
+"name": "Santa Cruz da Graciosa",
+"parent": "Açores",
+"lat": 39.0833,
+"lon": -28.0167
+},
+{
+"name": "Santa Cruz das Flores",
+"parent": "Açores",
+"lat": 39.45,
+"lon": -31.1167
+},
+{
+"name": "Santa Maria da Feira",
+"parent": "Aveiro",
+"lat": 40.9333,
+"lon": -8.5333
+},
+{
+"name": "Santa Marta de Penaguião",
+"parent": "Vila Real",
+"lat": 41.2,
+"lon": -7.7833
+},
+{
+"name": "Santana",
+"parent": "Madeira",
+"lat": 32.8,
+"lon": -16.8667
+},
+{
+"name": "Santarém",
+"parent": "Santarém",
+"lat": 39.2392,
+"lon": -8.6869
+},
+{
+"name": "Santiago do Cacém",
+"parent": "Setúbal",
+"lat": 38.0,
+"lon": -8.6833
+},
+{
+"name": "Santo Tirso",
+"parent": "Porto",
+"lat": 41.3425,
+"lon": -8.4775
+},
+{
+"name": "Sardoal",
+"parent": "Santarém",
+"lat": 39.5333,
+"lon": -8.1667
+},
+{
+"name": "Seia",
+"parent": "Guarda",
+"lat": 40.422,
+"lon": -7.7024
+},
+{
+"name": "Seixal",
+"parent": "Setúbal",
+"lat": 38.6422,
+"lon": -9.1073
+},
+{
+"name": "Sernancelhe",
+"parent": "Viseu",
+"lat": 40.9,
+"lon": -7.4833
+},
+{
+"name": "Serpa",
+"parent": "Beja",
+"lat": 37.9333,
+"lon": -7.5833
+},
+{
+"name": "Sertã",
+"parent": "Castelo Branco",
+"lat": 39.8008,
+"lon": -8.1003
+},
+{
+"name": "Sesimbra",
+"parent": "Setúbal",
+"lat": 38.4437,
+"lon": -9.0996
+},
+{
+"name": "Setúbal",
+"parent": "Setúbal",
+"lat": 38.5243,
+"lon": -8.8926
+},
+{
+"name": "Sever do Vouga",
+"parent": "Aveiro",
+"lat": 40.7167,
+"lon": -8.3667
+},
+{
+"name": "Silves",
+"parent": "Faro",
+"lat": 37.1833,
+"lon": -8.4333
+},
+{
+"name": "Sines",
+"parent": "Setúbal",
+"lat": 37.9547,
+"lon": -8.8642
+},
+{
+"name": "Sintra",
+"parent": "Lisboa",
+"lat": 38.7974,
+"lon": -9.3904
+},
+{
+"name": "Sobral de Monte Agraço",
+"parent": "Lisboa",
+"lat": 39.0167,
+"lon": -9.15
+},
+{
+"name": "Soure",
+"parent": "Coimbra",
+"lat": 40.05,
+"lon": -8.6333
+},
+{
+"name": "Sousel",
+"parent": "Portalegre",
+"lat": 38.9532,
+"lon": -7.6757
+},
+{
+"name": "Sátão",
+"parent": "Viseu",
+"lat": 40.7333,
+"lon": -7.7167
+},
+{
+"name": "São Brás de Alportel",
+"parent": "Faro",
+"lat": 37.15,
+"lon": -7.8833
+},
+{
+"name": "São João da Madeira",
+"parent": "Aveiro",
+"lat": 40.9,
+"lon": -8.5
+},
+{
+"name": "São João da Pesqueira",
+"parent": "Viseu",
+"lat": 41.1333,
+"lon": -7.4
+},
+{
+"name": "São Pedro do Sul",
+"parent": "Viseu",
+"lat": 40.75,
+"lon": -8.0667
+},
+{
+"name": "São Roque do Pico",
+"parent": "Açores",
+"lat": 38.5167,
+"lon": -28.3167
+},
+{
+"name": "São Vicente",
+"parent": "Madeira",
+"lat": 32.7967,
+"lon": -17.0433
+},
+{
+"name": "Tabuaço",
+"parent": "Viseu",
+"lat": 41.1167,
+"lon": -7.5667
+},
+{
+"name": "Tarouca",
+"parent": "Viseu",
+"lat": 41.0167,
+"lon": -7.7833
+},
+{
+"name": "Tavira",
+"parent": "Faro",
+"lat": 37.1309,
+"lon": -7.6506
+},
+{
+"name": "Terras de Bouro",
+"parent": "Braga",
+"lat": 41.7167,
+"lon": -8.3
+},
+{
+"name": "Tomar",
+"parent": "Santarém",
+"lat": 39.6,
+"lon": -8.4167
+},
+{
+"name": "Tondela",
+"parent": "Viseu",
+"lat": 40.5167,
+"lon": -8.0833
+},
+{
+"name": "Torre de Moncorvo",
+"parent": "Bragança",
+"lat": 41.1792,
+"lon": -7.0358
+},
+{
+"name": "Torres Novas",
+"parent": "Santarém",
+"lat": 39.4833,
+"lon": -8.5333
+},
+{
+"name": "Torres Vedras",
+"parent": "Lisboa",
+"lat": 39.0833,
+"lon": -9.2667
+},
+{
+"name": "Trancoso",
+"parent": "Guarda",
+"lat": 40.7833,
+"lon": -7.35
+},
+{
+"name": "Trofa",
+"parent": "Porto",
+"lat": 41.3374,
+"lon": -8.5596
+},
+{
+"name": "Tábua",
+"parent": "Coimbra",
+"lat": 40.3667,
+"lon": -8.0333
+},
+{
+"name": "Vagos",
+"parent": "Aveiro",
+"lat": 40.55,
+"lon": -8.6667
+},
+{
+"name": "Vale de Cambra",
+"parent": "Aveiro",
+"lat": 40.85,
+"lon": -8.4
+},
+{
+"name": "Valença",
+"parent": "Viana do Castelo",
+"lat": 42.0282,
+"lon": -8.6339
+},
+{
+"name": "Valongo",
+"parent": "Porto",
+"lat": 41.1833,
+"lon": -8.5
+},
+{
+"name": "Valpaços",
+"parent": "Vila Real",
+"lat": 41.6,
+"lon": -7.3167
+},
+{
+"name": "Velas",
+"parent": "Açores",
+"lat": 38.6817,
+"lon": -28.2079
+},
+{
+"name": "Vendas Novas",
+"parent": "Évora",
+"lat": 38.678,
+"lon": -8.4555
+},
+{
+"name": "Viana do Alentejo",
+"parent": "Évora",
+"lat": 38.3342,
+"lon": -8.0014
+},
+{
+"name": "Viana do Castelo",
+"parent": "Viana do Castelo",
+"lat": 41.7,
+"lon": -8.8333
+},
+{
+"name": "Vidigueira",
+"parent": "Beja",
+"lat": 38.2,
+"lon": -7.8
+},
+{
+"name": "Vieira do Minho",
+"parent": "Braga",
+"lat": 41.6333,
+"lon": -8.1333
+},
+{
+"name": "Vila Flor",
+"parent": "Bragança",
+"lat": 41.3,
+"lon": -7.15
+},
+{
+"name": "Vila Franca de Xira",
+"parent": "Lisboa",
+"lat": 38.95,
+"lon": -8.9833
+},
+{
+"name": "Vila Franca do Campo",
+"parent": "Açores",
+"lat": 37.7167,
+"lon": -25.4333
+},
+{
+"name": "Vila Nova da Barquinha",
+"parent": "Santarém",
+"lat": 39.4581,
+"lon": -8.4311
+},
+{
+"name": "Vila Nova de Cerveira",
+"parent": "Viana do Castelo",
+"lat": 41.9333,
+"lon": -8.7333
+},
+{
+"name": "Vila Nova de Famalicão",
+"parent": "Braga",
+"lat": 41.4167,
+"lon": -8.5167
+},
+{
+"name": "Vila Nova de Foz Côa",
+"parent": "Guarda",
+"lat": 41.0833,
+"lon": -7.1333
+},
+{
+"name": "Vila Nova de Gaia",
+"parent": "Porto",
+"lat": 41.1333,
+"lon": -8.6167
+},
+{
+"name": "Vila Nova de Paiva",
+"parent": "Viseu",
+"lat": 40.85,
+"lon": -7.7333
+},
+{
+"name": "Vila Nova de Poiares",
+"parent": "Coimbra",
+"lat": 40.2167,
+"lon": -8.25
+},
+{
+"name": "Vila Pouca de Aguiar",
+"parent": "Vila Real",
+"lat": 41.4833,
+"lon": -7.6333
+},
+{
+"name": "Vila Real",
+"parent": "Vila Real",
+"lat": 41.2953,
+"lon": -7.7461
+},
+{
+"name": "Vila Real de Santo António",
+"parent": "Faro",
+"lat": 37.2,
+"lon": -7.4167
+},
+{
+"name": "Vila Velha de Ródão",
+"parent": "Castelo Branco",
+"lat": 39.65,
+"lon": -7.6667
+},
+{
+"name": "Vila Verde",
+"parent": "Braga",
+"lat": 41.6484,
+"lon": -8.4367
+},
+{
+"name": "Vila Viçosa",
+"parent": "Évora",
+"lat": 38.75,
+"lon": -7.4333
+},
+{
+"name": "Vila de Rei",
+"parent": "Castelo Branco",
+"lat": 39.6833,
+"lon": -8.15
+},
+{
+"name": "Vila do Bispo",
+"parent": "Faro",
+"lat": 37.0825,
+"lon": -8.9119
+},
+{
+"name": "Vila do Conde",
+"parent": "Porto",
+"lat": 41.35,
+"lon": -8.75
+},
+{
+"name": "Vila do Porto",
+"parent": "Açores",
+"lat": 36.945,
+"lon": -25.145
+},
+{
+"name": "Vimioso",
+"parent": "Bragança",
+"lat": 41.5667,
+"lon": -6.5167
+},
+{
+"name": "Vinhais",
+"parent": "Bragança",
+"lat": 41.8167,
+"lon": -7.0
+},
+{
+"name": "Viseu",
+"parent": "Viseu",
+"lat": 40.6575,
+"lon": -7.9139
+},
+{
+"name": "Vizela",
+"parent": "Braga",
+"lat": 41.3833,
+"lon": -8.3
+},
+{
+"name": "Vouzela",
+"parent": "Viseu",
+"lat": 40.7,
+"lon": -8.1167
+},
+{
+"name": "Águeda",
+"parent": "Aveiro",
+"lat": 40.5805,
+"lon": -8.4417
+},
+{
+"name": "Évora",
+"parent": "Évora",
+"lat": 38.5725,
+"lon": -7.9072
+},
+{
+"name": "Ílhavo",
+"parent": "Aveiro",
+"lat": 40.6,
+"lon": -8.6667
+},
+{
+"name": "Óbidos",
+"parent": "Leiria",
+"lat": 39.362,
+"lon": -9.1571
+}
+],
+"distritos": [
+{
+"name": "Aveiro",
+"lat": 40.6405,
+"lon": -8.6538
+},
+{
+"name": "Beja",
+"lat": 38.0151,
+"lon": -7.8632
+},
+{
+"name": "Braga",
+"lat": 41.5454,
+"lon": -8.4265
+},
+{
+"name": "Bragança",
+"lat": 41.806,
+"lon": -6.7567
+},
+{
+"name": "Castelo Branco",
+"lat": 39.8222,
+"lon": -7.4909
+},
+{
+"name": "Coimbra",
+"lat": 40.2033,
+"lon": -8.4103
+},
+{
+"name": "Évora",
+"lat": 38.571,
+"lon": -7.9135
+},
+{
+"name": "Faro",
+"lat": 37.0194,
+"lon": -7.9304
+},
+{
+"name": "Guarda",
+"lat": 40.5373,
+"lon": -7.2675
+},
+{
+"name": "Leiria",
+"lat": 39.7437,
+"lon": -8.8071
+},
+{
+"name": "Lisboa",
+"lat": 38.7223,
+"lon": -9.1393
+},
+{
+"name": "Portalegre",
+"lat": 39.2967,
+"lon": -7.4285
+},
+{
+"name": "Porto",
+"lat": 41.1579,
+"lon": -8.6291
+},
+{
+"name": "Santarém",
+"lat": 39.2369,
+"lon": -8.685
+},
+{
+"name": "Setúbal",
+"lat": 38.5244,
+"lon": -8.8882
+},
+{
+"name": "Viana do Castelo",
+"lat": 41.6918,
+"lon": -8.8345
+},
+{
+"name": "Vila Real",
+"lat": 41.3006,
+"lon": -7.7441
+},
+{
+"name": "Viseu",
+"lat": 40.661,
+"lon": -7.9097
+}
+],
+"regioes": [
+{
+"name": "Açores",
+"lat": 37.7412,
+"lon": -25.6756
+},
+{
+"name": "Madeira",
+"lat": 32.6669,
+"lon": -16.9241
+}
+]
+}

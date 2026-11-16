@@ -1,0 +1,21 @@
+# segredos
+.env
+.env.*
+!.env.example
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+# bases de dados locais
+*.db
+*.sqlite3
+# node / frontend
+node_modules/
+frontend/dist/
+# cache local dos conectores
+.cache/
+# os
+.DS_Store
